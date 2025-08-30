@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'caredb',
         'USER':'root',
-        'PASSWORD':'root@12345!',
+        'PASSWORD':'root12345!',
         'HOST':'localhost',
         'PORT':'3306',
 
